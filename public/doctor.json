@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Jayn Seth",
+      "expertise": "Physiotherapist",
+      "city": "Bengaluru",
+      "imageUrl": "/assets/images/doctorOne.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Mayank",
+      "expertise": "Orthopedic Surgeon",
+      "city": "Bengaluru",
+      "imageUrl": "/assets/images/doctorTwo.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Jade",
+        "expertise": "Orthopedic Surgeon",
+        "city": "Bengaluru",
+        "imageUrl": "/assets/images/doctorThree.jpg"
+      }
+  ]
+  
